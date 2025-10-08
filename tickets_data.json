@@ -1,0 +1,78 @@
+{
+    "panel_channel_id": 1402948558197362758,
+    "panel_message_id": null,
+    "log_channel_id": 1403262039597776926,
+    "tickets": {},
+    "panel_embed": {
+        "title": "**MRP | Support**",
+        "description": "Welcome to the MRP Support system! Please select the type of the ticket you want to open in the dropdown below. *Any abuse/troll ticket will result in timeout*",
+        "color": 1652831,
+        "author": "MRP Support",
+        "author_icon": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512",
+        "footer": "MRP | Ticket System",
+        "image": "https://cdn.discordapp.com/attachments/1383386514385272864/1421439122316464219/NEW_YORK.png?ex=68e78a57&is=68e638d7&hm=4336328899fcb301b52273a7cd3b0bc07b42f3442d3fb5be0ecf890a18439033&",
+        "thumbnail": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512"
+    },
+    "ticket_types": {
+        "1": {
+            "name": "General Support",
+            "category_id": 1425473764333719644,
+            "staff_role_id": 1420671099242549318,
+            "embed": {
+                "title": "General Ticket",
+                "description": "Your general support ticket has been created. A general questions and concerns team member will assist you shortly.\nPlease provide details about your issue.",
+                "color": 1652831,
+                "author": "MRP Support",
+                "author_icon": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512",
+                "footer": "MRP | Ticket System",
+                "image": "https://cdn.discordapp.com/attachments/1383386514385272864/1421439122316464219/NEW_YORK.png?ex=68e78a57&is=68e638d7&hm=4336328899fcb301b52273a7cd3b0bc07b42f3442d3fb5be0ecf890a18439033&",
+                "thumbnail": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512"
+            }
+        },
+        "2": {
+            "name": "IA Support",
+            "category_id": 1425473890687389739,
+            "staff_role_id": 1420636084110495846,
+            "embed": {
+                "title": "Internals Affairs Ticket",
+                "description": "Your IA Ticket has been created. Please send proofs and details of your report.",
+                "color": 1652831,
+                "author": "MRP Support",
+                "author_icon": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512",
+                "footer": "MRP | Ticket System",
+                "image": "https://cdn.discordapp.com/attachments/1383386514385272864/1421439122316464219/NEW_YORK.png?ex=68e78a57&is=68e638d7&hm=4336328899fcb301b52273a7cd3b0bc07b42f3442d3fb5be0ecf890a18439033&",
+                "thumbnail": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512"
+            }
+        },
+        "3": {
+            "name": "BOT Support",
+            "category_id": 1425473940356071484,
+            "staff_role_id": 1383401266998153216,
+            "embed": {
+                "title": "BOT Ticket",
+                "description": "Your BOT ticket has been created. Please provide details about your bot issues or suggestions.",
+                "color": 1652831,
+                "author": "MRP Support",
+                "author_icon": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512",
+                "footer": "MRP | Ticket System",
+                "image": "https://cdn.discordapp.com/attachments/1383386514385272864/1421439122316464219/NEW_YORK.png?ex=68e78a57&is=68e638d7&hm=4336328899fcb301b52273a7cd3b0bc07b42f3442d3fb5be0ecf890a18439033&",
+                "thumbnail": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512"
+            }
+        },
+        "4": {
+            "name": "Senior High Ranking Team",
+            "category_id": 1425473976104390676,
+            "staff_role_id": 1385160436046893168,
+            "embed": {
+                "title": "Senior High Ranking Team Ticket",
+                "description": "Your Senior High Ranking Team ticket has been created. Please provide details.",
+                "color": 1652831,
+                "author": "MRP Support",
+                "author_icon": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512",
+                "footer": "MRP | Ticket System",
+                "image": "https://cdn.discordapp.com/attachments/1383386514385272864/1421439122316464219/NEW_YORK.png?ex=68e78a57&is=68e638d7&hm=4336328899fcb301b52273a7cd3b0bc07b42f3442d3fb5be0ecf890a18439033&",
+                "thumbnail": "https://cdn.discordapp.com/icons/1383386513533964349/202921f0cb5e1382522e41b5948f19c5.png?size=512"
+            }
+        }
+    }
+}
