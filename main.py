@@ -408,4 +408,5 @@ async def purge(ctx, channel_id: str):
             timestamp=discord.utils.utcnow()
         ).set_footer(text=FOOTER_TEXT).set_author(name=bot.user.name, icon_url=bot.user.avatar.url if bot.user.avatar else None)) # type: ignore
 
-bot.run('MTQyMTQzNzIxNjg2MDgwMzIxNQ.GpbxXg.jNYwVLSFVgMInioYBndkGr_M3dFE9n-nOvGASY')  # Replace with your bot token
+
+bot.run('MTQyMTQzNzIxNjg2MDgwMzIxNQ.GmTv3R.FVee6xZI_s9_whUlvjt31Rah2xIhBD1FBG5zok')  # Replace with your bot token
